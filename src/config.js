@@ -81,7 +81,7 @@ const config = {
       title: "Vocasia.id - Learning Management System & Education Marketplace",
       description:
         "Vocasia.id merupakan layanan learning management system dan education marketplace berbasis komunitas yang sudah eksis sejak 2015 yang menyediakan pelatihan untuk peningkatan keterampilan individu. Project ini mengembangkan back-end layanan menggunakan framework CodeIgniter 4 dan menyediakan API yang akan dikonsumsi oleh front-end web (React.js based) dan mobile (Flutter based).",
-      featuredImage: "https://via.placeholder.com/150x100",
+      featuredImage: "https://via.placeholder.com/1920x1080",
       url: ["https://vocasia.id"],
       startDate: "2022-02-14",
       endDate: "2022-07-14",
@@ -105,7 +105,7 @@ const config = {
       title: "HerAI - Bank Sampah Online berbasis AI",
       description:
         "HerAI merupakan aplikasi mobile berbasis Android dan iOS yang berfokus pada isu lingkungan dan pengelolaan sampah di kota Malang, Jawa Timur. Project ini mengembangkan back-end layanan menggunakan framework Laravel 8 dan menyediakan API yang akan dikonsumsi oleh front-end mobile (Flutter based), kemudian membangun landing page untuk promosi aplikasi dan deployment ke server berbasis Google Cloud.",
-      featuredImage: "https://via.placeholder.com/150x100",
+      featuredImage: "https://via.placeholder.com/1920x1080",
       url: [
         "https://appherai.com",
         "https://play.google.com/store/apps/details?id=com.herai.app",
@@ -141,7 +141,7 @@ const config = {
       title: "Unib Store - Store Resmi Merchandise UNIB",
       description:
         "Unib Store merupakan store merchandise resmi Universitas Bengkulu yang menjual produk-produk karya mahasiswa Universitas Bengkulu",
-      featuredImage: "https://via.placeholder.com/150x100",
+      featuredImage: "https://via.placeholder.com/1920x1080",
       url: ["https://store.unib.ac.id", "https://linktr.ee/unib.store"],
       startDate: "2021-08-09",
       endDate: "2021-19-16",
@@ -167,7 +167,7 @@ const config = {
       title: "Web Profil HMTS Fakultas Teknik Universitas Bengkulu",
       description:
         "Web Profil HMTS Fakultas Teknik Universitas Bengkulu merupakan website yang berisi informasi mengenai Himpunan Mahasiswa Teknik Sipil Universitas Bengkulu dan learning management system bagi anggota HMTS FT UNIB",
-      featuredImage: "https://via.placeholder.com/150x100",
+      featuredImage: "https://via.placeholder.com/1920x1080",
       url: ["https://hmtsftunib.org"],
       startDate: "2021-12-16",
       endDate: "2022-01-16",
@@ -186,7 +186,7 @@ const config = {
         "Web Profil Program Studi S2 Biologi Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Bengkulu",
       description:
         "Web Profil Program Studi S2 Biologi Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Bengkulu merupakan website yang berisi informasi mengenai Program Studi S2 Biologi Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Bengkulu",
-      featuredImage: "https://via.placeholder.com/150x100",
+      featuredImage: "https://via.placeholder.com/1920x1080",
       url: ["https://s2biologi.fmipa.unib.ac.id"],
       startDate: "2021-09-16",
       endDate: "2021-10-16",
@@ -201,7 +201,7 @@ const config = {
       title: "Website Profil Prof. Nanik Setyowati",
       description:
         "Prof. Nanik Setyowati merupakan guru besar di Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Bengkulu. Website ini dibuat untuk mendokumentasikan penelitian dan pengabdian masyarakat yang telah dilakukan oleh Prof. Nanik Setyowati",
-      featuredImage: "https://via.placeholder.com/150x100",
+      featuredImage: "https://via.placeholder.com/1920x1080",
       url: ["https://naniksetyowati.com"],
       startDate: "2021-08-05",
       endDate: "2021-10-16",
@@ -216,7 +216,7 @@ const config = {
         "HIMATIF UNIB - Website Resmi Himpunan Mahasiswa Teknik Informatika Universitas Bengkulu",
       description:
         "HIMATIF UNIB merupakan website yang berisi informasi mengenai Himpunan Mahasiswa Teknik Informatika Universitas Bengkulu",
-      featuredImage: "https://via.placeholder.com/150x100",
+      featuredImage: "https://via.placeholder.com/1920x1080",
       url: ["https://himatifunib.org"],
       startDate: "2020-08-05",
       endDate: "2022-10-16",
