@@ -1,7 +1,7 @@
 import React from "react";
 
 function LeftSide(props) {
-  const { description, technologies } = props;
+  const { description, technologies = [] } = props;
 
   return (
     <div className="col-12 col-md-6">

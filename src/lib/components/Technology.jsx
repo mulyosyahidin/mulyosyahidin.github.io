@@ -1,4 +1,5 @@
 import React from "react";
+import Tech from "./Tech";
 
 function Technology(props) {
   const { data } = props;
@@ -13,17 +14,12 @@ function Technology(props) {
           <div className="row">
             {data.items.map((item, index) => {
               return (
-                <div className="col-3 col-md-2" key={index}>
-                  <div className="tech">
-                    <img
-                      src={`/src/assets/icons/technologies/${data.path}/${item.icon}.png`}
-                      alt={item.name}
-                    />
-                    <div>
-                      <span>{item.name}</span>
-                    </div>
-                  </div>
-                </div>
+                <Tech
+                  key={index}
+                  path={data.path}
+                  icon={item.icon}
+                  name={item.name}
+                />
               );
             })}
           </div>

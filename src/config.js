@@ -144,7 +144,7 @@ const config = {
       featuredImage: "https://via.placeholder.com/1920x1080",
       url: ["https://store.unib.ac.id", "https://linktr.ee/unib.store"],
       startDate: "2021-08-09",
-      endDate: "2021-19-16",
+      endDate: "2021-09-16",
       tags: ["Online Store", "Web Service", "Marketplace Syncronization"],
       client: "Universitas Bengkulu",
       roles: ["Backend Developer"],

@@ -5,7 +5,7 @@ import ProjectCard from "../../elements/ProjectCard";
 
 function Works(props) {
   const getProjects = config.projects;
-  const projects = getProjects.slice(0, 6);
+  const projects = getProjects.slice(0, 3);
 
   return (
     <div className="works">

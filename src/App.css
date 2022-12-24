@@ -160,8 +160,12 @@ a {
   border-radius: 12px;
   padding: 2px 14px;
   font-size: 8px;
-  margin-right: 8px;
+  margin-right: 4px;
   color: #152b57;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
 }
 
 .projects .col-12 {
