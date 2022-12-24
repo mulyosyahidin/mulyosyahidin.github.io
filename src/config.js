@@ -330,6 +330,38 @@ const config = {
       ],
     },
   ],
+  contactAccounts: [
+    {
+      name: "Facebook",
+      url: "https://www.facebook.com/mt.maytin",
+      icon: "facebook",
+      title: "Facebook @mt.maytin",
+    },
+    {
+      name: "Instagram",
+      url: "https://www.instagram.com/mul.yoo",
+      icon: "instagram",
+      title: "Instagram @mul.yoo",
+    },
+    {
+      name: "Email",
+      url: "mailto:mulyosyahidin95@gmail.com",
+      icon: "email",
+      title: "Email me",
+    },
+    {
+      name: "WhatsApp",
+      url: "https://wa.me/6282281666584",
+      icon: "whatsapp",
+      title: "WhatsApp Me",
+    },
+    {
+      name: "Telegram",
+      url: "https://t.me/martinms23",
+      icon: "telegram",
+      title: "Send Message on Telegram",
+    },
+  ],
 };
 
 export default config;
