@@ -22,7 +22,7 @@ function Header(props) {
     <div className="navigation">
       <nav className="container navbar navbar-expand-lg navbar-light">
         <Logo />
-        <Link to="/" className="find-me d-lg-none">
+        <Link to="/contact" className="find-me d-lg-none">
           Find Me
         </Link>
 
